@@ -1,6 +1,5 @@
-# PlayPong
-
 #*Play Pong* 
+
 ##**by FloydAritra**
 
 A classic game of PONG in a minimalistic interface where you and your friend can play in a best of 5 matchup.
