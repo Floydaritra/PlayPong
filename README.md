@@ -15,3 +15,7 @@ Here, the goal is to defeat your opponent by being the first one to gain 3 point
 ===
 Its present as a python program in **venv** directory as *Pong.py*
 or just use --> [PONG](https://github.com/Floydaritra/PlayPong/blob/master/venv/Pong.py)
+
+*How it looks*
+===
+![PlayPongImage](https://raw.githubusercontent.com/Floydaritra/PlayPong/master/images/1.png)
